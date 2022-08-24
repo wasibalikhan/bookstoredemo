@@ -23,4 +23,6 @@ public class Book {
     private Double price;
     private Long iSBNNo;
     private Double payableAmount;
+    private String errorMessage;
+    private String successMessage;
 }
